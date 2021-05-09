@@ -1,5 +1,11 @@
 {
 	"homepage": {
+		"header": {
+			"title": "Lamborghini",
+			"description": "Gallardo",
+			"image": "heaer_image.jpg",
+			"path": "https://raw.githubusercontent.com/mdwaqqasiqbal/auto-showroom-json/main/homepage/header/"
+		},
 		"banner": [
 			{
 				"text": "Mazda RX 8",
