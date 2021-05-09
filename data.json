@@ -1,0 +1,29 @@
+{
+	"homepage": {
+		"banner": [
+			{
+				"text": "Mazda RX 8",
+				"image": "mazda_rx8.jpg",
+				"image_baseurl": "https://raw.githubusercontent.com/mdwaqqasiqbal/auto-showroom-json/main/"
+			},
+			{
+				"text": "Honda Civic",
+				"image": "honda_civic.jpg",
+				"image_baseurl": "https://raw.githubusercontent.com/mdwaqqasiqbal/auto-showroom-json/main/"
+			}
+		],
+		"middle": [
+			{
+
+			}
+		],
+		"bottom": [
+			{
+
+			}
+		]
+	},
+	"about": {
+
+	}
+}
